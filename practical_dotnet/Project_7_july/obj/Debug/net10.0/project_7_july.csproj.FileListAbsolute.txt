@@ -1,0 +1,14 @@
+D:\practical_dotnet\Project_7_july\obj\Debug\net10.0\project_7_july.GeneratedMSBuildEditorConfig.editorconfig
+D:\practical_dotnet\Project_7_july\obj\Debug\net10.0\project_7_july.AssemblyInfoInputs.cache
+D:\practical_dotnet\Project_7_july\obj\Debug\net10.0\project_7_july.AssemblyInfo.cs
+D:\practical_dotnet\Project_7_july\obj\Debug\net10.0\project_7_july.csproj.CoreCompileInputs.cache
+D:\practical_dotnet\Project_7_july\bin\Debug\net10.0\project_7_july.exe
+D:\practical_dotnet\Project_7_july\bin\Debug\net10.0\project_7_july.deps.json
+D:\practical_dotnet\Project_7_july\bin\Debug\net10.0\project_7_july.runtimeconfig.json
+D:\practical_dotnet\Project_7_july\bin\Debug\net10.0\project_7_july.dll
+D:\practical_dotnet\Project_7_july\bin\Debug\net10.0\project_7_july.pdb
+D:\practical_dotnet\Project_7_july\obj\Debug\net10.0\project_7_july.dll
+D:\practical_dotnet\Project_7_july\obj\Debug\net10.0\refint\project_7_july.dll
+D:\practical_dotnet\Project_7_july\obj\Debug\net10.0\project_7_july.pdb
+D:\practical_dotnet\Project_7_july\obj\Debug\net10.0\project_7_july.genruntimeconfig.cache
+D:\practical_dotnet\Project_7_july\obj\Debug\net10.0\ref\project_7_july.dll
